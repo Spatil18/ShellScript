@@ -21,11 +21,11 @@
 ![reset_non_existing_passward](https://github.com/user-attachments/assets/fa24a3be-fb9f-4474-a25c-66204deec377)
 
 
-6. List All Users
+6. List All User Accounts
 
 ![list_users](https://github.com/user-attachments/assets/b1c6e66d-9d00-47c1-ab05-3335f6c32dd7)
 
-5. Delete Existing user
+5. Delete Existing User Account
 
 ![delete-exist-ac](https://github.com/user-attachments/assets/a0429efe-8db7-4fb2-a8cc-5c7e1d52e189)
 
